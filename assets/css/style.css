@@ -132,3 +132,12 @@ footer{
         margin-top: 79px;
     }
 }
+
+/* Media querey to make mouse hover over menu items */
+/* Hover is only for devices that uses mouse (laptops and desk tops)*/
+/* Break points for larger screens is 992px and up */
+
+@media screen and (min-width:992px) {
+     #menu a:hover{ border-bottom: 1px solid #3a3a3a;}
+    
+}
