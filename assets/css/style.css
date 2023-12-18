@@ -120,10 +120,10 @@ main{
 }
 
 /* Content under hero image */
-
 #reasons {
     width: 90%;
     margin: 20px auto;
+
 }
 
 #reasons h2 {
@@ -141,10 +141,12 @@ main{
 #benefits p {
     padding: 0 20px;
 }
+
 hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+
 /*Footer*/ 
 #social-networks{
     text-align: center;
